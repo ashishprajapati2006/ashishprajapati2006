@@ -1,4 +1,6 @@
+<img src="https://github.com/ashishprajapati2006/ashishprajapati2006/blob/main/GitHub%20Banner.png" alt="GitHub followers" />
 <h1 align="center">Hi 👋, I'm Ashish Prajapati</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishprajapati2006&label=Profile%20views&color=0e75b6&style=flat" alt="ashishprajapati2006" /> </p>
 
 <h3 align="center">Aspiring AI/ML Engineer | DSA(C++) | Python | IT'27 🚀</h3>
